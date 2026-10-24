@@ -1,0 +1,40 @@
+h1{
+    color: rgb(163, 40, 40);
+    font-size: larger;
+    text-align: center;
+}
+body{
+    background-color: beige;
+}
+div{
+
+    margin-bottom: 30px;
+}
+.post{
+    border: 1px black solid;
+    border-radius: 20px;
+    background-color: rgb(210, 210, 189);
+    color: rgb(163, 40, 40);
+    
+}
+.reset{
+    border: 1px black solid;
+    border-radius: 20px;
+    background-color: rgb(210, 210, 189);
+    color: rgb(163, 40, 40);
+    
+}
+.username input{
+    width: 250px;
+}
+.content input{
+    width: 350px;
+    height: 100px;
+}
+.buttons{
+    text-align: center;
+}
+button{
+    margin-left: 10px;
+}
+

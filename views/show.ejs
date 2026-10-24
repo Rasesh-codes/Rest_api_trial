@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show Post</title>
+    <link rel="stylesheet" href="/style_show.css">
+</head>
+<body>
+    <h1 class="username">Username : @<%= post.username  %></h1>
+    <h2 class="content">POST : <%= post.content %></h2>
+    <br>
+    <a href="http://localhost:8080/posts">Go To Main</a>
+    <br>
+    <br>
+    <form action="/posts/<%=post.id%>" method="post">
+            <button>Delete Post</button>
+    </form>
+
+</body>
+</html>

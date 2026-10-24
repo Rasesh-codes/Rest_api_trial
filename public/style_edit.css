@@ -1,0 +1,14 @@
+body{
+    background-color: beige;
+}
+button{
+    text-decoration: none;
+    color: rgb(163, 40, 40);
+    border: 1px black solid;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: beige;
+} 
+textarea{
+    background-color: azure;
+}

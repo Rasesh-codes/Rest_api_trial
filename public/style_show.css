@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+.username{
+    color: rgb(163, 40, 40);
+
+}
+.content{
+    color: rgb(65, 75, 71);
+}
+a{
+    text-decoration: none;
+    color: rgb(163, 40, 40);
+    border: 1px black solid;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 20px;
+    
+}
+button{
+    text-decoration: none;
+    color: rgb(163, 40, 40);
+    border: 1px black solid;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: beige;
+} 
